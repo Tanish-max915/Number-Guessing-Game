@@ -1,6 +1,7 @@
-# Number-Guessing-Game
-A number guessing game that runs in the terminal
+# This is a collection of python mini projects from a beginner!
 
-https://roadmap.sh/projects/number-guessing-game
-Ideas from roadmap.sh!
+Ideas from roadmap.sh and more!
 Hope this helps someone.
+
+Reqs:
+https://roadmap.sh/projects/number-guessing-game
